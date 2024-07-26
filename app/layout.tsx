@@ -11,12 +11,19 @@ export const metadata: Metadata = {
   authors: [{ name: "Casibom", url: "https://casibom.vercel.app" }],
   viewport: "width=device-width, initial-scale=1.0",
   robots: "index, follow",
-  og: {
+  openGraph: {
     title: "Casibom - Güncel - Canlı Bahis, Spor Bahisleri ve Casino - Casibom Giriş",
     description: "Casibom, yüksek oranlar ve cazip bonuslarla bahis tutkunlarının gözdesi olmuştur. Futbol, basketbol, tenis gibi popüler spor dallarında geniş bahis seçenekleri sunan site, aynı zamanda canlı bahis imkanı da sunar.",
     url: "https://casibom.vercel.app",
     type: "website",
-    image: "https://casibom.vercel.app/logo.png",
+    images: [
+      {
+        url: "https://casibom.vercel.app/logo.png",
+        width: 800,
+        height: 600,
+        alt: "Casibom logo",
+      },
+    ],
     site_name: "Casibom",
     locale: "tr_TR",
   },
@@ -26,9 +33,15 @@ export const metadata: Metadata = {
     creator: "@casibomguncels",
     title: "Casibom - Güncel - Canlı Bahis, Spor Bahisleri ve Casino - Casibom Giriş",
     description: "Casibom, yüksek oranlar ve cazip bonuslarla bahis tutkunlarının gözdesi olmuştur. Futbol, basketbol, tenis gibi popüler spor dallarında geniş bahis seçenekleri sunan site, aynı zamanda canlı bahis imkanı da sunar.",
-    images: "https://casibom.vercel.app/logo.png",
+    images: [
+      {
+        url: "https://casibom.vercel.app/logo.png",
+        alt: "Casibom logo",
+      },
+    ],
   },
 };
+
 
 export default function RootLayout({
   children,
