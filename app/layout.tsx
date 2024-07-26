@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: "Casibom - Güncel - Canlı Bahis, Spor Bahisleri ve Casino - Casibom Giriş",
   description: "Casibom, yüksek oranlar ve cazip bonuslarla bahis tutkunlarının gözdesi olmuştur. Futbol, basketbol, tenis gibi popüler spor dallarında geniş bahis seçenekleri sunan site, aynı zamanda canlı bahis imkanı da sunar. Casibom, spor bahisleri ve casino oyunlarında eşsiz bir deneyim sunar.",
   keywords: "Casibom, canlı bahis, spor bahisleri, casino, yüksek oranlar, bonus, futbol bahisleri, basketbol bahisleri, tenis bahisleri",
-  authors: "Casibom",
+  author: "Casibom",
   viewport: "width=device-width, initial-scale=1.0",
   charset: "UTF-8",
   robots: "index, follow",
