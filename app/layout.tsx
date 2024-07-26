@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Jojobet: Canlı Bahis, Spor Bahisleri ve Casino - Jojobet Giriş",
-  description: " Jojobet, yüksek oranlar ve cazip bonuslarla bahis tutkunlarının gözdesi olmuştur. Futbol, basketbol, tenis gibi popüler spor dallarında geniş bahis seçenekleri sunan site, aynı zamanda canlı bahis imkanı da sunar. Jojobet, spor bahisleri ve casino oyunlarında eşsiz bir deneyim sunar.",
+  title: "Casibom - Güncel - Canlı Bahis, Spor Bahisleri ve Casino - Casibom Giriş",
+  description: " Casibom, yüksek oranlar ve cazip bonuslarla bahis tutkunlarının gözdesi olmuştur. Futbol, basketbol, tenis gibi popüler spor dallarında geniş bahis seçenekleri sunan site, aynı zamanda canlı bahis imkanı da sunar. Casibom, spor bahisleri ve casino oyunlarında eşsiz bir deneyim sunar.",
 };
 
 export default function RootLayout({
