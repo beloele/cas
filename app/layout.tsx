@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     creator: "@casibomguncels",
     title: "Casibom - Güncel - Canlı Bahis, Spor Bahisleri ve Casino - Casibom Giriş",
     description: "Casibom, yüksek oranlar ve cazip bonuslarla bahis tutkunlarının gözdesi olmuştur. Futbol, basketbol, tenis gibi popüler spor dallarında geniş bahis seçenekleri sunan site, aynı zamanda canlı bahis imkanı da sunar.",
-    image: "https://casibom.vercel.app/logo.png",
+    images: "https://casibom.vercel.app/logo.png",
   },
 };
 
