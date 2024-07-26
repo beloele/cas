@@ -46,7 +46,9 @@ export default function Home() {
           </a>
         </Link>
       </div>
-      <div className="text-center max-w-2xl mx-auto">
+      <div className="text-center max-w-2xl mx-auto"  style={{
+        marginTop: 40
+      }}>
         <section className="mb-4">
           <h2 className="text-2xl font-semibold mb-2">Casibom Nedir?</h2>
           <p className="text-sm md:text-base">
