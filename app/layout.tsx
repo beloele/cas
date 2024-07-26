@@ -24,7 +24,7 @@ export const metadata: Metadata = {
         alt: "Casibom logo",
       },
     ],
-    site_name: "Casibom",
+    siteName: "Casibom",
     locale: "tr_TR",
   },
   twitter: {
